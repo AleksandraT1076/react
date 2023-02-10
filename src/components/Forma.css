@@ -1,0 +1,19 @@
+.form-control{
+    margin-bottom: 5px;
+}
+
+form{ 
+    display: flex;
+    flex-direction: column;
+    padding:60px;
+    align-self: center;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #DC3535;
+    font-size: medium;
+    align-self: center;
+}
